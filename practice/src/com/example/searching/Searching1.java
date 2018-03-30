@@ -1,4 +1,4 @@
-package com.example.practice;
+package com.example.searching;
 
 public class Searching1 {
 
